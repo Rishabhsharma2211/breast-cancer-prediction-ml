@@ -38,4 +38,4 @@ The model predicts:
 - Malignant (Cancerous)
 
 ## Author
-Pawan Kumar Koiri
+Rishabh Sharma
